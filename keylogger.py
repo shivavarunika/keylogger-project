@@ -390,7 +390,7 @@ computer_information()
 time.sleep(10)
 
 # remove files from target PC
-# delete_files = [system_information, clipboard_information, keys_information, screenshot_information, audio_information]
+# delete_files = [system_information, clipboard_information, keys_information, screenshot_information, audio_information].
 # for file in delete_files:
 #     os.remove(file_merge + file)
 
